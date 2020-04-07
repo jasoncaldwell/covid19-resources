@@ -20,7 +20,9 @@ Curated list of Coronavirus data & apps. This list will be updated regulary, fee
 
 ## Apps & Tools
 - [Coronavirus Symptoms](https://www.coronavirus-signs-and-symptoms.com/): Check if you have the symptons for coronavirus or just a regular cold or flu.
+- [Coronavirus Chrome Extension](https://chrome.google.com/webstore/detail/coronavirus-tips-new-tab/konbgoghafhpdebefnmcbbmbgoakjfkp) - A chrome extension to help promote the "Do The Five" W.H.O. guidelines.
 - [COVID19 API](https://covid19api.com/): A free API for data on the Coronavirus.
+- [Celebrities With Corona](https://www.celebritieswithcorona.com/): Real-time updated list of Celebrities With Corona.
 - [Celebrities With Corona](https://www.celebritieswithcorona.com/): Real-time updated list of Celebrities With Corona.
 
 ## Note
